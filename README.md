@@ -1,2 +1,0 @@
-# NetFlix
-BroCamp WorkShop Project
